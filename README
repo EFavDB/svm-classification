@@ -1,0 +1,7 @@
+SVM example mapping 2-d non-linearly separable points to 3-d using a custom kernel.
+
+svm.py and svm.ipynb:
+generate points, fit model (using sklearn package)
+
+make_plotly*d.ipynb:
+generate plotly plots (2d makes use of plotly's matplotlib converter, but 3d--not supported by the converter--is written from scratch)
